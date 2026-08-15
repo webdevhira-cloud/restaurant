@@ -1,7 +1,7 @@
 # Luna Bistro | Fine Dining Restaurant
 ## 📸 Website Preview
 
-![Luna Bistro Website Preview](images/preview.png.png)
+![Luna Bistro Website Preview](images/preview.png.)
 
 ## ✨ Features
 
