@@ -1,4 +1,9 @@
 # Luna Bistro | Fine Dining Restaurant
+## 📸 Website Preview
+
+![Luna Bistro Website Preview](images/preview.png)
+
+## ✨ Features
 
 A modern and elegant restaurant website built with **HTML, CSS, and JavaScript**, featuring a luxury dark-themed design, responsive layout, menu sections, gallery, testimonials, reservation form, and restaurant information.
 
